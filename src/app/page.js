@@ -35,7 +35,6 @@ export default function Home() {
           We needs to review the security of your connection before proceeding
           DMarket
         </p>
-       
         <div style={{ marginTop: 30, position: "relative" }}>
           <Image src={image} alt="Logo" className={styles.image2} />
           <input type="checkbox" className={styles.checkbox} />
